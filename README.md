@@ -1,5 +1,4 @@
 # Retention-Analysis-Case-Study
-Retention Analysis performed in dataset aggregated by a Spanish Bank
 A Spanish Bank has been collecting data on multiple facets of customer behavior. Currently
 the data science team at the bank is trying to help in developing strategies to retain
 customers.
